@@ -1,0 +1,4 @@
+Hi Fellow Developer,
+This is a To-Do list app created in React.js.
+
+I used the useEffect hook to store and read data from local storage to save the list details, so the items won't disappear from screen even after a refresh ! ;)
